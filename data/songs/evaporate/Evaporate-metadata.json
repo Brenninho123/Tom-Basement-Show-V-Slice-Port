@@ -1,0 +1,57 @@
+{
+  "version": "2.2.4",
+  "songName": "Evaporate",
+  "artist": "Unknown",
+  "charter": "Unknown",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 10,
+    "altInstrumentals": {    },
+    "vocals": {    },
+    "altVocals": {    }
+  },
+  "playData": {
+    "songVariations": [    ],
+    "difficulties": [
+      "normal"
+    ],
+    "characters": {
+      "player": "BFBasement",
+      "girlfriend": "GFBasement",
+      "opponent": "jerry",
+      "instrumental": "",
+      "altInstrumentals": [      ],
+      "opponentVocals": [
+        "jerry"
+      ],
+      "playerVocals": [
+        "BFBasement"
+      ]
+    },
+    "stage": "basement",
+    "noteStyle": "jerry",
+    "ratings": {
+      "normal": 9
+    },
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.7.5",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 180,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}
